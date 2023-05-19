@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(111, 170, 170);
+    display: flex;
+    justify-content: space-around;
+}
+#container{
+    background-color: bisque;
+    font-size: larger;
+    border: 1px solid blue;
+    border-radius: 12px;
+}
+p{
+    margin: 20px;
+    padding: 2px;
+    border-top:rgb(170, 111, 157);
+    border-bottom:rgb(111, 170, 170);
+    border: 1px solid rgb(89, 1, 97);
+}
+button{
+    margin: 10px;
+}
